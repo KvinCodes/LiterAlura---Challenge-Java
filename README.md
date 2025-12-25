@@ -19,7 +19,7 @@ Este proyecto forma parte del desafío **Literalura** de Alura Latam.
 
 ## 🛠️ Tecnologías utilizadas
 
-- Java 21
+- Java 17
 - Spring Boot 3.5.9
 - Spring Data JPA
 - Hibernate
@@ -31,7 +31,7 @@ Este proyecto forma parte del desafío **Literalura** de Alura Latam.
 
 ## 📦 Requisitos
 
-- Java 21 o superior
+- Java 17 o superior
 - Maven
 - PostgreSQL
 - Conexión a internet para consumir la API Gutendex
